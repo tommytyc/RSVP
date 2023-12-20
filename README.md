@@ -1,4 +1,4 @@
-# RSVP: Customer Intent Detection via Agent Response Contrastive and Generative Pre-Training (EMNLP 2023 Findings)
+# [RSVP: Customer Intent Detection via Agent Response Contrastive and Generative Pre-Training (EMNLP 2023 Findings)](https://aclanthology.org/2023.findings-emnlp.698/)
 Official implementation for our EMNLP 2023 Findings paper "RSVP: Customer Intent Detection via Agent Response Contrastive and Generative Pre-Training".
 
 ## Setup
